@@ -3,16 +3,16 @@ title: "Audio-conditioned phonemic and prosodic annotation for building text-to-
 layout: default
 ---
 
-<!--
 # Authors
-- Yuma Shirahata
-- Byeongseon Park
+- Yuma Shirahata*
+- Byeongseon Park*
 - Ryuichi Yamamoto
 - Kentaro Tachibana
--->
+
+\* Equal contribution.
 
 # Paper
-- Submitted to INTERSPEECH 2024
+- Accepted to INTERSPEECH 2024
 - arXiv: TBD
 
 # Abstract
